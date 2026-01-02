@@ -1180,7 +1180,3 @@ AWS::EC2::NetworkAcl
 - **Troubleshooting**: Always check security groups and route tables first
 
 ---
-
-*You've done the work. Trust your experience. The exam is just translating what you already know into AWS terminology.*
-
-*Good luck on the 31st! 🎯*
